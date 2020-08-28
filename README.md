@@ -3,11 +3,11 @@
 
 <h2>User Story</h2>
 
-As a Front End Developer,
-I want to Understand the fundamentals of Push and Pull requests,
+As a Front End Developer,<br>
+I want to Understand the fundamentals of Push and Pull requests,<br>
 So that I can work with a development team functionally 
 
-In order to achieve this goal
-I will be creating all new projects locally 
-and then committing my changes to New Repositories 
-to help establish good practies and commenting 
+In order to achieve this goal<br>
+I will be creating all new projects locally <br>
+and then committing my changes to New Repositories <br>
+to help establish good practies and commenting <br>
