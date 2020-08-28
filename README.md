@@ -4,7 +4,7 @@
 <h2>User Story<h2>
 
 As a Front End Developer,
-I want to Understand the fundamentals of Pull and Pull requests,
+I want to Understand the fundamentals of Push and Pull requests,
 So that I can work with a development team functionally 
 
 <hr>
